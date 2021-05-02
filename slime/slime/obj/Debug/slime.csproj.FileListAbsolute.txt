@@ -1,0 +1,14 @@
+C:\Users\antol\cs\azure\slime\slime\slime\bin\Debug\slime.exe.config
+C:\Users\antol\cs\azure\slime\slime\slime\bin\Debug\slime.exe
+C:\Users\antol\cs\azure\slime\slime\slime\bin\Debug\slime.pdb
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.csprojAssemblyReference.cache
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.Form1.resources
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.Properties.Resources.resources
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.exe
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.pdb
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.downloadForm.resources
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.journalForm.resources
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.controlsForm.resources
+C:\Users\antol\cs\azure\slime\slime\slime\obj\Debug\slime.tagsJournalForm.resources
